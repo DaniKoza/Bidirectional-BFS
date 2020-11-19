@@ -1,8 +1,8 @@
 /*
 # AI First Assignment - Bidirectional BFS
 #
-#	Liel Titelbaum, ID: 208042523
-#	Daniel Kozachkevich, ID: 203690359
+#	Liel Titelbaum,
+#	Daniel Kozachkevich.
 
 */
 #include "Cell.h"
