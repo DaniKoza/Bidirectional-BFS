@@ -6,12 +6,11 @@
 
 */
 
-
-#include "glut.h"
 #include <time.h>
 #include <vector>
-#include "Cell.h"
 #include <iostream>
+#include "freeglut_std.h"
+#include "Cell.h"
 
 using namespace std;
 
