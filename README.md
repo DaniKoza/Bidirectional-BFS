@@ -11,9 +11,11 @@ College assignment implementing *bidirectional BFS* (Breadth-first search) in **
 
 
 ## Demo
- ## 1) Right click and run.
-     ![](https://im5.ezgif.com/tmp/ezgif-5-61d1972789c4.gif)
+  1) Right click and run.
+ 
+ ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-61d1972789c4.gif)
      
      
- ## 2) Right click, clean solution and start a new run.
-     ![](https://im5.ezgif.com/tmp/ezgif-5-124e1eda05e1.gif)
+  2) Right click, clean solution and start a new run.
+ 
+ ![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-124e1eda05e1.gif)
