@@ -13,9 +13,9 @@ College assignment implementing *bidirectional BFS* (Breadth-first search) in **
 ## Demo
   1) Right click and run.
  
- ![Alt Text](https://imgur.com/DOvRUYl)
+ ![Alt Text](https://i.imgur.com/FxzAdPj.gif)
      
      
   2) Right click, clean solution and start a new run.
  
- ![Alt Text](https://imgur.com/3WR0Jed)
+ ![Alt Text](https://i.imgur.com/LEfZPBE.gif)
